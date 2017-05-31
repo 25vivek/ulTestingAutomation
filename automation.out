@@ -1,0 +1,34 @@
+2017-05-14 00:40:10 INFO  TC001_VerifyLoginWithInvalidCredentials:26 - ********************Starting VerifyLoginWithInvalidCredentials test*******************
+2017-05-14 00:50:07 INFO  TC001_VerifyLoginWithInvalidCredentials:26 - ********************Starting VerifyLoginWithInvalidCredentials test*******************
+2017-05-14 00:50:08 INFO  Homepage:48 - Clicked on signIn link and the object is[[FirefoxDriver: firefox on ANY (24fc094d-3152-4447-a471-5ee5eeb2c335)] -> xpath: //a[@class='login']]
+2017-05-14 00:55:01 INFO  TC001_VerifyLoginWithInvalidCredentials:26 - ********************Starting VerifyLoginWithInvalidCredentials test*******************
+2017-05-14 00:55:02 INFO  Homepage:48 - Clicked on signIn link and the object is[[FirefoxDriver: firefox on ANY (12380fae-cf06-4a86-9cc1-7dbbb00b3544)] -> xpath: //a[@class='login']]
+2017-05-14 00:55:09 INFO  Homepage:50 - Entered email id and the object is[[FirefoxDriver: firefox on ANY (12380fae-cf06-4a86-9cc1-7dbbb00b3544)] -> xpath: //input[@id='email']]
+2017-05-14 00:55:10 INFO  Homepage:52 - entered password and the object is[[FirefoxDriver: firefox on ANY (12380fae-cf06-4a86-9cc1-7dbbb00b3544)] -> xpath: //input[@id='passwd']]
+2017-05-14 00:55:10 INFO  Homepage:54 - clicked on submit button and the object is[[FirefoxDriver: firefox on ANY (12380fae-cf06-4a86-9cc1-7dbbb00b3544)] -> xpath: //button[@id='SubmitLogin']]
+2017-05-14 00:58:57 INFO  TC001_VerifyLoginWithInvalidCredentials:26 - ********************Starting VerifyLoginWithInvalidCredentials test*******************
+2017-05-14 00:58:57 INFO  Homepage:48 - Clicked on signIn link and the object is[[FirefoxDriver: firefox on ANY (b898527e-b5e5-4cde-b675-3ce8038b22f9)] -> xpath: //a[@class='login']]
+2017-05-14 00:59:14 INFO  Homepage:50 - Entered email id and the object is[[FirefoxDriver: firefox on ANY (b898527e-b5e5-4cde-b675-3ce8038b22f9)] -> xpath: //input[@id='email']]
+2017-05-14 00:59:15 INFO  Homepage:52 - entered password and the object is[[FirefoxDriver: firefox on ANY (b898527e-b5e5-4cde-b675-3ce8038b22f9)] -> xpath: //input[@id='passwd']]
+2017-05-14 00:59:15 INFO  Homepage:54 - clicked on submit button and the object is[[FirefoxDriver: firefox on ANY (b898527e-b5e5-4cde-b675-3ce8038b22f9)] -> xpath: //button[@id='SubmitLogin']]
+2017-05-14 01:04:39 INFO  TC001_VerifyLoginWithInvalidCredentials:26 - ********************Starting VerifyLoginWithInvalidCredentials test*******************
+2017-05-14 01:04:40 INFO  Homepage:48 - Clicked on signIn link and the object is[[FirefoxDriver: firefox on ANY (bad6c3f0-0812-4db3-acf5-3eee2826743c)] -> xpath: //a[@class='login']]
+2017-05-14 01:04:46 INFO  Homepage:50 - Entered email id and the object is[[FirefoxDriver: firefox on ANY (bad6c3f0-0812-4db3-acf5-3eee2826743c)] -> xpath: //input[@id='email']]
+2017-05-14 01:04:47 INFO  Homepage:52 - entered password and the object is[[FirefoxDriver: firefox on ANY (bad6c3f0-0812-4db3-acf5-3eee2826743c)] -> xpath: //input[@id='passwd']]
+2017-05-14 01:04:47 INFO  Homepage:54 - clicked on submit button and the object is[[FirefoxDriver: firefox on ANY (bad6c3f0-0812-4db3-acf5-3eee2826743c)] -> xpath: //button[@id='SubmitLogin']]
+2017-05-14 01:04:49 INFO  Homepage:63 - error message isAuthentication failed.
+2017-05-14 01:04:49 INFO  TC001_VerifyLoginWithInvalidCredentials:30 - ********************Ending VerifyLoginWithInvalidCredentials test*******************
+2017-05-31 17:44:58 INFO  Homepage:99 - switching to homepage frame and frame object is:Proxy element for: DefaultElementLocator 'By.id: PreviewFrame'
+2017-05-31 17:44:58 INFO  Homepage:101 - clicked on signUp link and obejct is:[[FirefoxDriver: firefox on ANY (61f3a22c-c584-4cec-ad49-0fae642fd55c)] -> xpath: //a[@id='customer_register_link']]
+2017-05-31 17:45:01 INFO  Homepage:103 - entered data to first name field and object is:test
+2017-05-31 17:45:01 INFO  Homepage:107 - entered data to last name field and object is:testlast
+2017-05-31 17:45:02 INFO  Homepage:110 - entered data to email field and object is:[[FirefoxDriver: firefox on ANY (61f3a22c-c584-4cec-ad49-0fae642fd55c)] -> xpath: //input[@id='Email']]
+2017-05-31 17:45:02 INFO  Homepage:113 - entered data to paswword field and object is:[[FirefoxDriver: firefox on ANY (61f3a22c-c584-4cec-ad49-0fae642fd55c)] -> xpath: //input[@id='CreatePassword']]
+2017-05-31 17:45:03 INFO  Homepage:115 - clicked on create user button and object is:[[FirefoxDriver: firefox on ANY (61f3a22c-c584-4cec-ad49-0fae642fd55c)] -> xpath: //input[@value='Create']]
+2017-05-31 17:48:39 INFO  Homepage:99 - switching to homepage frame and frame object is:Proxy element for: DefaultElementLocator 'By.id: PreviewFrame'
+2017-05-31 17:48:39 INFO  Homepage:101 - clicked on signUp link and obejct is:[[FirefoxDriver: firefox on ANY (707ba81f-d7f9-4543-8c02-e6287fbb38f2)] -> xpath: //a[@id='customer_register_link']]
+2017-05-31 17:48:43 INFO  Homepage:103 - entered data to first name field and object is:test
+2017-05-31 17:48:43 INFO  Homepage:107 - entered data to last name field and object is:testlast
+2017-05-31 17:48:43 INFO  Homepage:110 - entered data to email field and object is:[[FirefoxDriver: firefox on ANY (707ba81f-d7f9-4543-8c02-e6287fbb38f2)] -> xpath: //input[@id='Email']]
+2017-05-31 17:48:43 INFO  Homepage:113 - entered data to paswword field and object is:[[FirefoxDriver: firefox on ANY (707ba81f-d7f9-4543-8c02-e6287fbb38f2)] -> xpath: //input[@id='CreatePassword']]
+2017-05-31 17:48:44 INFO  Homepage:115 - clicked on create user button and object is:[[FirefoxDriver: firefox on ANY (707ba81f-d7f9-4543-8c02-e6287fbb38f2)] -> xpath: //input[@value='Create']]
